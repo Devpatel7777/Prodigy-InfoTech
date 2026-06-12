@@ -1,23 +1,6 @@
-ભાઈ, મેં તારી નવી notebook જોઈ. તેમાં:
+# World Population Analysis Using Python
 
-* Top 10 Population
-* Bottom 10 Population
-* Histogram
-* Continent Analysis
-* Density Analysis
-* Scatter Plot
-* Growth Rate
-* Population Trend
-* Box Plot
-* Correlation Heatmap
-* Key Insights
-* Conclusion
-
-બધું છે. એટલે આ notebook માટે README આ રાખ:
-
-# 🌍 World Population Analysis Using Python
-
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing global population data using Python. The aim of this analysis is to understand population distribution, identify highly populated countries, study population density, analyze growth rates, and generate meaningful insights through Exploratory Data Analysis (EDA).
 
@@ -25,7 +8,7 @@ The project includes data cleaning, statistical analysis, and multiple visualiza
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze global population statistics.
 * Identify top and bottom populated countries.
@@ -37,7 +20,7 @@ The project includes data cleaning, statistical analysis, and multiple visualiza
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 
 The dataset contains population statistics for countries around the world.
 
@@ -53,7 +36,7 @@ The dataset contains population statistics for countries around the world.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas
@@ -64,7 +47,7 @@ The dataset contains population statistics for countries around the world.
 
 ---
 
-## 🔍 Data Analysis Performed
+##  Data Analysis Performed
 
 ### Data Quality Check
 
@@ -82,7 +65,7 @@ The dataset contains population statistics for countries around the world.
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 
 ### Top 10 Countries by Population
 
@@ -126,7 +109,7 @@ Heatmap showing relationships between numerical variables.
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 * India and China are the most populated countries.
 * Asia contributes the largest share of the global population.
@@ -137,7 +120,7 @@ Heatmap showing relationships between numerical variables.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 World-Population-Analysis/
@@ -150,7 +133,7 @@ World-Population-Analysis/
 ```
 
 
-## 📌 Conclusion
+##  Conclusion
 
 This project successfully analyzed world population data using Python and EDA techniques. Multiple visualizations were used to understand population trends, density, growth rates, and country-level comparisons.
 
@@ -164,7 +147,7 @@ The project demonstrates practical skills in:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Dev Patel**
 

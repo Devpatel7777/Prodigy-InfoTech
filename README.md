@@ -155,6 +155,3 @@ My goal is to use data to solve real-world business problems and support better 
 
 **Dev Patel**
 
-GitHub: https://github.com/Devpatel7777
-
-LinkedIn: Add Your LinkedIn Profile Here

@@ -129,7 +129,7 @@ World-Population-Analysis/
 ├── world_population.csv
 ├── README.md
 │
-└── images/
+
 ```
 
 
